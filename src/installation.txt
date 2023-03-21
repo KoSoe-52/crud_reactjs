@@ -1,0 +1,17 @@
+1.nodejs install
+2.npm install -g create-react-app
+3.create-react-app appName
+4.cd appName
+5.npm start
+=====================
+6.npm install react-router-dom
+7. npm install bootstrap 
+8. npm install -g json-server
+9. install useful vscode extension 
+	
+	ES7+ React/Redux/React-Native snippets
+	 VSCode React Refactor
+	 Prettier
+	 Simple React Snippets
+	
+10. npx json-server --watch db.json --port 8000
