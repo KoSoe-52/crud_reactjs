@@ -1,0 +1,39 @@
+{
+  "employee": [
+    {
+      "name": "Ko Soe",
+      "email": "kosoe@gmail.com",
+      "phone": "09693054647",
+      "active": true,
+      "id": 2
+    },
+    {
+      "name": "Kaung Kaung",
+      "email": "kaung@gmail.com",
+      "phone": "1234567890",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "Aung Soe",
+      "email": "soelay211108@gmail.com",
+      "phone": "09637362632",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Soe Thein",
+      "email": "soethein@gmail.com",
+      "phone": "098372732",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "Ko Soe",
+      "email": "kosoe@gmail.com",
+      "phone": "09693054647",
+      "active": true,
+      "id": 12
+    }
+  ]
+}
