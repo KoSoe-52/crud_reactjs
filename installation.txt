@@ -1,8 +1,8 @@
-1.nodejs install
-2.npm install -g create-react-app
-3.create-react-app appName
-4.cd appName
-5.npm start
+1. nodejs install
+2. npm install -g create-react-app
+3. create-react-app appName
+4. cd appName
+5. npm start
 =====================
 6. npm install react-router-dom
 7. npm install bootstrap 

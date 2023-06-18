@@ -90,9 +90,5 @@ const EmpEdit = () => {
             </div>
         </div>
      );
-}
- 
+} 
 export default EmpEdit;
-<div>
-    
-</div>

@@ -2,7 +2,7 @@
   "employee": [
     {
       "name": "Ko Soe",
-      "email": "kosoe@gmail.com",
+      "email": "soethein@gmail.com",
       "phone": "09693054647",
       "active": true,
       "id": 2
@@ -15,7 +15,7 @@
       "id": 9
     },
     {
-      "name": "Aung Soe",
+      "name": "Ko Soe Thein",
       "email": "soelay211108@gmail.com",
       "phone": "09637362632",
       "active": true,
@@ -34,6 +34,13 @@
       "phone": "09693054647",
       "active": true,
       "id": 12
+    },
+    {
+      "name": "Soe Aung",
+      "email": "soeaung@gmail.com",
+      "phone": "09693054647",
+      "active": true,
+      "id": 13
     }
   ]
 }

@@ -30,7 +30,7 @@ const EmpListing = () => {
         }).catch((err) =>{
           console.log(err.message);
         })
-      }, [])
+      }, []);
     return ( 
         <div className="container">
             <div className="card">
